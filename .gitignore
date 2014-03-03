@@ -1,0 +1,10 @@
+.bash_logout
+.bash_profile
+.bashrc
+.ssh/
+.vbox_version
+.viminfo
+.zcompdump
+.zdirs
+.zsh_history
+
