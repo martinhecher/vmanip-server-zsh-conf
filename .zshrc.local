@@ -21,4 +21,6 @@ alias ngeo='cd /var/ngeo_autotest'
 alias cache='cd /var/v-manip-server/vmanip_server/mesh_cache'
 alias factory='cd /var/v-manip-server/vmanip_server/mesh_factory'
 
+alias l='ls -alh --color=auto'
+
 ## END OF FILE #################################################################
